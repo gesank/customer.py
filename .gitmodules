@@ -1,0 +1,3 @@
+[submodule "score.py"]
+	path = score.py
+	url = https://github.com/gesank/score.py.git
